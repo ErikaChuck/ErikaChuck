@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ErikaChuck
 - 👀 I’m interested in learn and practice the use of analytical tools for my continuous improvement
-- 🌱 I’m currently learning about data analyst, machine learning, sql, python and more
+- 🌱 I learned the use of Python, machine learning,  machine learning, sql, python and other tools for data analysis,
 - 💞️ I’m looking to collaborate on projects that allow me to develop data analysis skills
 - 📫 How to reach me: erika_chuck@live.com
 - 😄 Pronouns: she/her...
