@@ -1,20 +1,20 @@
-![Banner para Linkedin Analista Sistemas Moderno Negro](https://github.com/user-attachments/assets/62ef1d00-708a-4c2a-b624-5fb213b89730)
+![Banner para Linkedin Analista Sistemas Moderno Negro (4)](https://github.com/user-attachments/assets/c40c7d7f-f253-4442-ba4e-1c783b8d4762)
 
+🌿 Ingeniera Ambiental con especialización en proyectos sostenibles y consultoría en gestión ambiental, ahora enfocada en el 🌐 análisis de datos.
 
+🎯 Mi meta: combinar mi experiencia en ingeniería ambiental con habilidades de análisis de datos para contribuir a proyectos que promuevan la 🌱 sostenibilidad y el uso eficiente de recursos.
 
+🔍 Actualmente, busco oportunidades como Analista de Datos para aplicar mis conocimientos en Python, análisis estadístico 📊 y visualización de datos 📈 en el sector de medio ambiente 🌍 o tecnología 💻.
 
-- 👋 Hi, I’m @ErikaChuck
-- 
-- 👀 I’m interested in learn and practice the use of analytical tools for my continuous improvement
-- 
-- 🌱 I learned the use of Python, machine learning,  machine learning, sql, python and other tools for data analysis,
-- 
-- 💞️ I’m looking to collaborate on projects that allow me to develop data analysis skills
-- 
-- 📫 How to reach me: erika_chuck@live.com
-- www.linkedin.com/in/erikajchucklievano
-- 
-- ⚡ Fun fact: I used to be Environmental Engineer...
+✨ Objetivos:
+💼 Obtener mi primera experiencia profesional como Analista de Datos en una empresa que valore el impacto ambiental 🌏 y la sostenibilidad.
+🚀 Seguir perfeccionando mis habilidades en machine learning 🤖 y análisis predictivo 🔮 para generar valor en proyectos.
+
+🏆 Logros:
+🎓 Graduada en Ingeniería Ambiental con especialización en sostenibilidad.
+🛠️ Experiencia en consultoría para la gestión ambiental y cumplimiento normativo en proyectos de infraestructura.
+📚 Finalización de un bootcamp intensivo en análisis de datos, con habilidades en Python, pandas, SQL y visualización de datos.
+💻 Certificación técnica en programación desde preparatoria.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ErikaChuck)](https://git.io/streak-stats)
 
